@@ -15,6 +15,13 @@ https://machinelearningmastery.com/python-ecosystem-machine-learning/
 ### Now go ahead and go through this mini course, it covers all the basic of doing ML using sklearn
 https://machinelearningmastery.com/python-machine-learning-mini-course/
 
+### For Cross Validation and Grid Search for Model Selection in Python
+https://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/
+
+### Save and Restore Models using scikit-learn
+https://stackabuse.com/scikit-learn-save-and-restore-models/
+ 
+
 
 
 
