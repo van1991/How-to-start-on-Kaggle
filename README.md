@@ -12,5 +12,9 @@ https://machinelearningmastery.com/crash-course-python-machine-learning-develope
 ### Now that you undestood basics of Numpy, Pandas & Matplot, use the below link to install SciPy & other relevant packages in Python
 https://machinelearningmastery.com/python-ecosystem-machine-learning/
 
+### Now go ahead and go through this mini course, it covers all the basic of doing ML using sklearn
+https://machinelearningmastery.com/python-machine-learning-mini-course/
+
+
 
 
